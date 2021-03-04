@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: #ffff;
+}
+
+h1,h2,p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    line-height: 1px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+input.btn {
+    color: #0099CC;
+    background: transparent;
+    border: 2px solid #0099CC;
+    border-radius: 6px;
+}
+
+input.btn:hover{
+    background-color: #008CBA;
+    color: white;
+    border-color: #ffff;
+}
